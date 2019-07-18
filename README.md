@@ -1,8 +1,7 @@
 # Dog_Breed_Identification 
 # Fastai-Resnet50,Fastai-Resnet101,Transferlearning-inception_v2,inceptionResnet_v2
 
-Deep Convolutional Neural Network for Dog Breed clas-
-sification is one of the best techniques to achieve this task.
+Deep Convolutional Neural Network for Dog Breed classification is one of the best techniques to achieve this task.
 
 Popular CNN architectures have been used namely Inception-ResNetV2, Resnet101, Resnet50 and InceptionV3 all pre-trained on the ImageNet dataset as robust feature extractors followed by the logistic regression classifier.
 
