@@ -1,2 +1,4 @@
-# Dog_Breed_Identification Using fastai-Resnet50,fastai-Resnet101,transferlearning-inception_v3,transferlearning-inceptionResnet_v2
+# Dog_Breed_Identification using 
+fastai-Resnet50,Resnet101
+transferlearning-inception_v3,inceptionResnet_v2
 
